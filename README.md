@@ -3,6 +3,7 @@ Documentación de proyecto de creación de un videojuego
 El videojuego Android Devourer está organizado en dos pantallas principales.
 Por un lado, una pantalla de menú, donde se muestran las instrucciones básicas y desde la que se inicia la partida. Y, por otro lado, una pantalla de juego, que contiene toda la mecánica: movimiento del jugador, generación de objetos, colisiones, puntuación, tiempo y condiciones de victoria o derrota.
 Ambas clases siguen la estructura de pantallas de libGDX mediante la interfaz Screen.
+
 MenuScreen
 MenuScreen es la pantalla inicial del juego. Su propósito es presentar el título, explicar brevemente cómo se juega y permitir que el jugador comience la partida pulsando la tecla ENTER.
 Elementos usados en MenuScreen:
